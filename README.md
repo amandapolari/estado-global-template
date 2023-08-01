@@ -1,6 +1,7 @@
 # template-estado-global
 
 [ link do codesandbox](https://codesandbox.io/s/estado-global-template-ykpd4w)
+[ link do codesandbox resolução](https://codesandbox.io/s/estado-global-template-forked-hvlv62?file=/src/Pages/Cadastro.js:773-812)
 
 ## Índice
 
